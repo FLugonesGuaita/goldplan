@@ -1,0 +1,5 @@
+{
+  "name": "Quote Generator Pro",
+  "description": "A professional quoting application that generates downloadable PDF quotes from Excel data, manages multiple users, and allows for company branding.",
+  "requestFramePermissions": []
+}
